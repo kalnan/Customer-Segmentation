@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Segmentation"
+		},
+		{
+			"path": "../archive"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
